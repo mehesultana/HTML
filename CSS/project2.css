@@ -1,0 +1,54 @@
+body {
+	background-color: rgb(31, 29, 29);
+}
+
+h2 {
+	color: aliceblue;
+	text-align: center;
+}
+.profile {
+	margin-left: 800px;
+}
+p {
+	color: aliceblue;
+	text-align: center;
+}
+
+.link-button {
+	text-decoration: none;
+	background-color: rgb(243, 25, 61);
+	margin-left: 800px;
+	padding: 10px;
+	color: white;
+	font-weight: 400;
+	border-radius: 5px;
+}
+h3 {
+	text-align: center;
+	color: rgb(243, 25, 61);
+}
+table {
+	text-align: center;
+	color: aliceblue;
+	margin-left: 800px;
+}
+.progress {
+	color: aliceblue;
+	text-align: center;
+}
+iframe {
+	margin-left: 250px;
+}
+video {
+	margin-left: 250px;
+}
+audio {
+	margin-left: 100px;
+}
+.table {
+	text-align: center;
+	margin-left: 100px;
+}
+form {
+	text-align: center;
+}
